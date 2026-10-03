@@ -17,7 +17,7 @@ Estudante de **Sistemas de Informação** (Unopar, desde 2026) e técnico em Man
 
 ## Tecnologias e ferramentas
 
-- **Estudando:** Java, C, Javascript, MySQL Serve/Workbench, PHP
+- **Estudando:** Java, C, Javascript, MySQL Server/Workbench, PHP
 - **Experiência prévia:** redes de internet, suporte técnico, manutenção de computadores
 
 ## Contato
