@@ -22,5 +22,5 @@ Estudante de **Sistemas de Informação** (Unopar, desde 2026) e técnico em Man
 
 ## Contato
 
-- 💼 LinkedIn: [seu-perfil](https://www.linkedin.com/in/vinicius-luz-7727a0255)
+- 💼 LinkedIn: [Vinicius Luz](https://www.linkedin.com/in/vinicius-luz-7727a0255)
 - 📧 E-mail: viniciuscruzst@gmail.com
