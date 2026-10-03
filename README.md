@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Vinícius 👋
 
-<!--
-**vinicius-santos-luz/vinicius-santos-luz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Sistemas de Informação** (Unopar, desde 2026) e técnico em Manutenção e Suporte em Informática. Tenho experiência prática em **instalação e reparo de redes de internet**, suporte técnico e atendimento ao público.
 
-Here are some ideas to get you started:
+## O que me interessa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programação e desenvolvimento de software
+- Construir meus primeiros projetos e um portfólio sólido
+- Tecnologia em geral, com a bagagem de infraestrutura, redes e suporte técnico
+
+## Onde estou agora
+
+- 🎓 Cursando Sistemas de Informação
+- 💻 Estudando programação e começando a criar projetos
+- 🛠️ Montando meu portfólio: os projetos vão aparecer nos repositórios fixados aqui no perfil
+- 🌱 Aprendendo e documentando o caminho
