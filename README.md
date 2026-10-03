@@ -14,3 +14,13 @@ Estudante de **Sistemas de Informação** (Unopar, desde 2026) e técnico em Man
 - 💻 Estudando programação e começando a criar projetos
 - 🛠️ Montando meu portfólio: os projetos vão aparecer nos repositórios fixados aqui no perfil
 - 🌱 Aprendendo e documentando o caminho
+
+## Tecnologias e ferramentas
+
+- **Estudando:** Java, C, Javascript, MySQL Serve/Workbench, PHP
+- **Experiência prévia:** redes de internet, suporte técnico, manutenção de computadores
+
+## Contato
+
+- 💼 LinkedIn: [seu-perfil](https://www.linkedin.com/in/vinicius-luz-7727a0255)
+- 📧 E-mail: viniciuscruzst@gmail.com
